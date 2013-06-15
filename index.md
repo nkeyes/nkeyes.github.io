@@ -9,7 +9,7 @@ layout: default
 ## I write [code](https://github.com/{{ site.author.github }}).
 ## I'm from [Chicago](https://maps.google.com/maps?q=Chicago).
 ## I live in [San Francisco](https://maps.google.com/maps?q=San+Francisco).
-## Sometimes, I might write about [things]({{ BASE_PATH }}{{ site.JB.archive_path }}).
+## Sometimes, I might write about some [stuff]({{ BASE_PATH }}{{ site.JB.archive_path }}).
 
 ---
 
