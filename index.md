@@ -1,7 +1,7 @@
 ---
 layout: page
-title: NathanKeyes.com
-tagline: Random musings from your friendly neighborhood misanthrope
+title: Nathan Keyes
+tagline: Random musings from your friendly neighborhood misanthrope.
 ---
 {% include JB/setup %}
 

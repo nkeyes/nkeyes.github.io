@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : NathanKeyes.com
-tagline: Random musings from your friendly neighborhood misanthrope
+title : Nathan Keyes
+tagline: Random musings from your friendly neighborhood misanthrope.
 author:
   name: Nathan Keyes
   email: nkeyes@gmail.com
