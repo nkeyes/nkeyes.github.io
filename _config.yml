@@ -9,12 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Nathan Keyes
-#tagline: Site Tagline
-author :
-  name : Nathan Keyes
-  email : nkeyes@gmail.com
-  github : nkeyes
+title : NathanKeyes.com
+tagline: Random musings from your friendly neighborhood misanthrope
+author:
+  name: Nathan Keyes
+  email: nkeyes@gmail.com
+  github: nkeyes
+  linkedin: nkeyes
 
 
 # The production_url is only used when full-domain names are needed
