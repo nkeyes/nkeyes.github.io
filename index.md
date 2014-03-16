@@ -7,8 +7,8 @@ layout: default
 # Random musings from your friendly neighborhood misanthrope.
 ---
 ## I write [code](https://github.com/{{ site.author.github }}).
-## I'm from [Chicago](https://maps.google.com/maps?q=Chicago).
-## I live in [San Francisco](https://maps.google.com/maps?q=San+Francisco).
+## I live and work in [Chicago](https://maps.google.com/maps?q=Chicago).
+## I did a tour in [San Francisco](https://maps.google.com/maps?q=San+Francisco).
 ## Sometimes, I might write about some [stuff]({{ BASE_PATH }}{{ site.JB.archive_path }}).
 
 ---
