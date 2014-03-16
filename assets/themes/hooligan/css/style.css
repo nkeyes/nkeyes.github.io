@@ -403,3 +403,13 @@ div.sidebar section img.icon {
   -o-border-radius: 5px;
   border-radius: 5px;
 }
+
+
+ul.post-share {
+    list-style-type: none;
+}
+
+ul.post-share li {
+    display: inline-block;
+    margin: 5px;
+}
